@@ -1,0 +1,35 @@
+.covidCard{
+    width: 200px;
+    height: 170px;
+    text-align: left;
+    border-radius: 5px;
+}
+.covidCardIntent {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.covidCardName {
+    margin-top: 20px;
+    font-weight: 600;
+    
+}
+.covidCardData {
+    margin-top: 5px;
+    font-size: large;
+}
+.covidCardSubHeader{
+    margin-top: 5px;
+    font-size: smaller;
+    font-weight: 500;
+
+}
+.covidCardDate{
+    font-weight:lighter;
+    font-size: small;
+}
+.covidCardHours{
+    font-weight: 100;
+    font-size: small;
+
+}
